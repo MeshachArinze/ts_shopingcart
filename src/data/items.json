@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.59,
+        "imgUrl": "/imgs/food1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Book",
+        "price": 10.59,
+        "imgUrl": "/imgs/food1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Book",
+        "price": 10.59,
+        "imgUrl": "/imgs/food1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Book",
+        "price": 10.59,
+        "imgUrl": "/imgs/food1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Book",
+        "price": 10.59,
+        "imgUrl": "/imgs/food1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Book",
+        "price": 10.59,
+        "imgUrl": "/imgs/food1.jpg"
+    }
+]
