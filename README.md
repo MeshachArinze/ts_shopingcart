@@ -34,7 +34,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](meshach-ekene)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-meshach-ekene?style=flat&logo=Linkedin&logoColor=white)](meshach-ekene)
 
 I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
@@ -44,4 +44,4 @@ I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I love reading books on finance, mindset and leadership and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](meshach-ekene)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-meshach-ekene?style=flat&logo=Linkedin&logoColor=white)](meshach-ekene)
