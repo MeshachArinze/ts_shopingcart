@@ -1,38 +1,38 @@
- [
-    {
-        "id": 1,
-        "name": "Book",
-        "price": 10.59,
-        "imgUrl": "/imgs/food1.jpg"
-    },
-    {
-        "id": 2,
-        "name": "Book",
-        "price": 10.59,
-        "imgUrl": "/imgs/food1.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Book",
-        "price": 10.59,
-        "imgUrl": "/imgs/food1.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Book",
-        "price": 10.59,
-        "imgUrl": "/imgs/food1.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Book",
-        "price": 10.59,
-        "imgUrl": "/imgs/food1.jpg"
-    },
-    {
-        "id": 6,
-        "name": "Book",
-        "price": 10.59,
-        "imgUrl": "/imgs/food1.jpg"
-    }
+[
+  {
+    "id": 1,
+    "name": "breadpie",
+    "price": 10.59,
+    "imgUrl": "/imgs/food1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "small chops",
+    "price": 8.59,
+    "imgUrl": "/imgs/food2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "pitza",
+    "price": 6.59,
+    "imgUrl": "/imgs/food3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "carrot",
+    "price": 3.59,
+    "imgUrl": "/imgs/food4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "bread and butter",
+    "price": 12.59,
+    "imgUrl": "/imgs/food5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "tomato salad",
+    "price": 5.59,
+    "imgUrl": "/imgs/food6.jpg"
+  }
 ]
